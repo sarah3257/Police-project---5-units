@@ -1,0 +1,416 @@
+D:\מסמכים\תכנות\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+D:\מסמכים\תכנות\Police\Police\bin\Debug\Police.exe.config
+D:\מסמכים\תכנות\Police\Police\bin\Debug\Police.exe
+D:\מסמכים\תכנות\Police\Police\bin\Debug\Police.pdb
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.Properties.Resources.resources
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.exe
+D:\מסמכים\תכנות\Police\Police\obj\Debug\Police.pdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormSecurityUpdate.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.Properties.Resources.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.exe
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.pdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\bin\Debug\Police.exe.config
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\bin\Debug\Police.exe
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\bin\Debug\Police.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\bin\Debug\Police.exe.config
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\bin\Debug\Police.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\bin\Debug\Police.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurityUpdate.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.pdb
+F:\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+F:\אחרון\Police\Police\bin\Debug\Police.exe.config
+F:\אחרון\Police\Police\bin\Debug\Police.exe
+F:\אחרון\Police\Police\bin\Debug\Police.pdb
+F:\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPastReport.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormpPersonCode.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurityUpdate.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+F:\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+F:\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+F:\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+F:\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+F:\אחרון\Police\Police\obj\Debug\Police.exe
+F:\אחרון\Police\Police\obj\Debug\Police.pdb
+G:\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+G:\אחרון\Police\Police\bin\Debug\Police.exe.config
+G:\אחרון\Police\Police\bin\Debug\Police.exe
+G:\אחרון\Police\Police\bin\Debug\Police.pdb
+G:\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPastReport.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormpPersonCode.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurityUpdate.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+G:\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+G:\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+G:\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+G:\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+G:\אחרון\Police\Police\obj\Debug\Police.exe
+G:\אחרון\Police\Police\obj\Debug\Police.pdb
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\Police.exe.config
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\Police.exe
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\Police.pdb
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPastReport.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormpPersonCode.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormSecurityUpdate.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.Properties.Resources.resources
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.exe
+C:\Users\shani\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.pdb
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\Police.exe.config
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\Police.exe
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\bin\Debug\Police.pdb
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPastReport.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormpPersonCode.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormSecurityUpdate.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.Properties.Resources.resources
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.exe
+D:\Users\1\Downloads\jm_RbnwPtdEtkOWeij\Police\Police\obj\Debug\Police.pdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.request.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.request.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FormReportStatusView.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרון\Police\Police\obj\Debug\Police.GUI.FrmFollowReport.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FormReportStatusView.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FrmFollowReport.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.request.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\bin\Debug\Police.exe.config
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\bin\Debug\Police.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\bin\Debug\Police.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+D:\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+D:\אחרון\Police\Police\bin\Debug\Police.exe.config
+D:\אחרון\Police\Police\bin\Debug\Police.exe
+D:\אחרון\Police\Police\bin\Debug\Police.pdb
+D:\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+D:\אחרון\Police\Police\obj\Debug\Police.csproj.SuggestedBindingRedirects.cache
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.request.resources
+D:\אחרון\Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+D:\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+D:\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+D:\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+D:\אחרון\Police\Police\obj\Debug\Police.exe
+D:\אחרון\Police\Police\obj\Debug\Police.pdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\bin\Debug\Police.exe.config
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\bin\Debug\Police.exe
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\bin\Debug\Police.pdb
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.request.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.exe
+D:\Users\1\Documents\שרית\תכנות פרויקט\אחרון\Police\Police\obj\Debug\Police.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\bin\Debug\Police.exe.config
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\bin\Debug\Police.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\bin\Debug\Police.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.request.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\שרי ראם\אחרי פסח\אחרון\Police\Police\obj\Debug\Police.pdb
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\Police.exe.config
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\Police.exe
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\Police.pdb
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.SuggestedBindingRedirects.cache
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.request.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.exe
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.pdb
+E:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormActualRescue.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\DAL\PoliceProject.accdb
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\Police.exe.config
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\Police.exe
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\bin\Debug\Police.pdb
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormActualRescue.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.MainPage.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.request.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.Properties.Resources.resources
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.exe
+G:\חדש מיום רביעי ג אייר\אחרון\Police\Police\obj\Debug\Police.pdb
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\DAL\PoliceProject.accdb
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\Police.exe.config
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\Police.exe
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\Police.pdb
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormActualRescue.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.MainPage.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.request.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.Properties.Resources.resources
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.exe
+C:\Users\user1\Documents\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.pdb
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\DAL\PoliceProject.accdb
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\Police.exe.config
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\Police.exe
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\bin\Debug\Police.pdb
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormActualRescue.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormAddReport.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormCommandant.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormEntry.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormOpeningComplaint.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormPerson.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormPolice.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormPoliceManagement.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormRescue.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormSecretaryManagement.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormSecurity.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormTrackingReports.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FormTraffic.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmAddPolice.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmAddSecretary.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmPeopleAreHurtingcs.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.FrmReportPayment.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.MainPage.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.request.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.GUI.TrackingReport.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.Properties.Resources.resources
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.GenerateResource.cache
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.exe
+C:\Users\user1\Documents\אתר\פרויקטים\תיכון 5 יחידות ציון 100-C#\פרויקט-Police\Police\obj\Debug\Police.pdb
