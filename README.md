@@ -75,8 +75,13 @@ Update of details on the selected police officer: his name is Yishai Gutman
 The elected secretary is Liat Feldman, and details can be updated here.
 
 ![24](https://github.com/sarah3257/Police-project---5-units/assets/144917462/5c3e47de-27c8-4d34-8363-626c51c7bdd6)
+
 ![25](https://github.com/sarah3257/Police-project---5-units/assets/144917462/2789b9c6-d702-4754-95bf-18c22bf5ea95)
+
 ![20](https://github.com/sarah3257/Police-project---5-units/assets/144917462/484eb813-acb2-4512-a154-5d1e4507c9bc)
+
 ![21](https://github.com/sarah3257/Police-project---5-units/assets/144917462/71458189-25ea-42f2-9ff7-7c1cc1bca273)
+
 ![22](https://github.com/sarah3257/Police-project---5-units/assets/144917462/3c6ad068-94ab-4160-8a94-c44f35e1f5f6)
+
 ![23](https://github.com/sarah3257/Police-project---5-units/assets/144917462/04edf6ba-a1e7-4952-b193-3edf8dadd2be)
